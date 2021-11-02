@@ -1,0 +1,91 @@
+skills_group_0:
+- C#
+- VBA
+- Microsoft SQL Server
+- ASP.NET
+- ASP.NET Core
+- .NET
+- .NET Core
+- Xamarin
+skills_group_1:
+- Go
+- DynamoDB
+- Elasticsearch
+- PostgreSQL
+- Redis
+- Ansible
+- Teraform
+skills_group_10:
+- HTML/CSS
+- JavaScript
+- SQL
+- jQuery
+skills_group_11:
+- Ruby
+- Ruby on Rails
+skills_group_12:
+- Assembly
+- C
+- C++
+skills_group_13:
+- Unity 3D
+- Unreal Engine
+skills_group_14:
+- Dart
+- Firebase
+- Flutter
+skills_group_15:
+- Chef
+- Puppet
+skills_group_16:
+- Objective-C
+- Swift
+skills_group_2:
+- PHP
+- MariaDB
+- MySQL
+- SQLite
+- Drupal
+- Laravel
+- Symfony
+- Vue.js
+skills_group_3:
+- Scala
+- Cassandra
+- Couchbase
+- Apache Spark
+- Hadoop
+skills_group_4:
+- MongoDB
+- Express
+- Gatsby
+- React.js
+- Node.js
+- React Native
+skills_group_5:
+- Bash/Shell/PowerShell
+- Perl
+- Python
+- Django
+- Flask
+skills_group_6:
+- Haskell
+- Julia
+- Rust
+skills_group_7:
+- R
+- Keras
+- Pandas
+- TensorFlow
+- Torch/PyTorch
+skills_group_8:
+- TypeScript
+- Angular
+- Angular.js
+- Cordova
+skills_group_9:
+- Java
+- Kotlin
+- IBM DB2
+- Oracle
+- Spring
